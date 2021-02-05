@@ -1,0 +1,26 @@
+
+body {
+    background-image: linear-gradient(to right, rgb(44, 62, 80), rgb(76, 161, 175));
+}
+
+#hello {
+    font-size: 15px;
+    font-family: Futura;
+    display: grid;
+    justify-content: center;
+    color: white;
+}
+
+form {
+    font-family: Futura;
+    display: grid;
+    justify-content: center;
+    color: white;
+    margin-top: 30px;    
+}
+
+#box {
+    border-style: double;
+    padding: 30px;
+    border-radius: 30px;
+}
